@@ -1,1 +1,3 @@
-Программа выбора случайной карты. Тренируемся создавать  репозитории.
+# Random card script
+
+Just love ruby and having fun
